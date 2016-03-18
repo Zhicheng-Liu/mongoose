@@ -1,3 +1,8 @@
+# Notes
+
+- This repository is forked from https://github.com/cesanta/mongoose.
+- It is intended for use in Populations BWT Server (aka Read Server) project only. For other purposes, please use https://github.com/cesanta/mongoose.
+
 # <img src="http://cesanta.com/images/mongoose_logo.png" width="64" height="64"> Mongoose Web Server
 
 Mongoose is the most easy to use web server on the planet. A web server of choice for Web developers (PHP, Ruby, Python, etc) and Web designers.
